@@ -10,7 +10,7 @@ The Academy I participated as Daewoong Scholarship student. (2021.05 ~2021.10)
 ## Things that I learned and get here
 I learned how the project is being carried out in practice, and that AI is being applied in various ways in the pharmaceutical industry. Also during this experience, I became interested in smart factories. Lastly I realized again that domain knowledge is very important to become a good data analyst and data scientist.
 
-<img src="/My_projects/케이캡정_알비스정_추이.png" width="420" height="250"/>
+<img src="/My_projects/케이캡정_알비스정_성별차이.png" width="760" height="460"/>
 
 ## Related Websites
 - 대웅제약(Daewoong Pharmaceutical CO): https://m.daewoong.co.kr/kr/main/index
