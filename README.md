@@ -1,4 +1,4 @@
-# Daewoong-AI_Bigdata_Academy
+# Daewoong AI Bigdata Academy
 The Academy I participated as Daewoong Scholarship student. (2021.05 ~2021.10)  
 
 ## What program is this?
